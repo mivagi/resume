@@ -1,0 +1,32 @@
+html{
+  font-family: sans-serif;
+}
+section{
+  margin-bottom: 0.5em;
+}
+h2{
+  color: #370785f6;
+}
+a{
+  color: #2f80ed;
+}
+.cv{
+  max-width: 900px;
+  margin: 0 auto;
+}
+.common{
+  display: flex;
+}
+.left{
+  min-width: 185px;
+}
+.right{
+  margin-left: 3em;
+}
+.contact{
+  display: flex;
+  margin-bottom: 0.5em;
+}
+.contact__type{
+  min-width: 90px;
+}
