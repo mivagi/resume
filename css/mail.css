@@ -18,7 +18,7 @@ a{
   display: flex;
 }
 .left{
-  min-width: 185px;
+  min-width: 175px;
 }
 .right{
   margin-left: 3em;
@@ -29,4 +29,9 @@ a{
 }
 .contact__type{
   min-width: 90px;
+}
+@media screen and (max-width:767px){
+    .common {
+        display:block;
+    }
 }
