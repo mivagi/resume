@@ -14,6 +14,10 @@ a{
   max-width: 900px;
   margin: 0 auto;
 }
+.cvv {
+    max-width: 600px;
+    margin: 0 auto;
+}
 .common{
   display: flex;
 }
